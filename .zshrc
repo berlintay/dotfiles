@@ -1,0 +1,1 @@
+/home/tayke/.zshrc
