@@ -83,7 +83,8 @@ SPACESHIP_RPROMPT_ORDER=(
 # ------------------------------------------------------------------------------
 
 # Include the default Spaceship prompt components
-source "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh"
+source "$HOME/.zsh/spaceship/spaceship.zsh"
+
 
 # ------------------------------------------------------------------------------
 # CUSTOMIZATIONS

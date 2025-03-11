@@ -1,1 +1,1 @@
-/home/tayke/.zshrc
+/home/tay/.zshrc
